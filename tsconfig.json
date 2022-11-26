@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "allowUmdGlobalAccess": true,
+    "target": "es2018",
+    "module": "es2015",
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true
+  }
+}
